@@ -1,17 +1,15 @@
 # Oracle Cloud Account Recovery Guides
 
-This repository contains comprehensive guides on how to recover an Oracle Cloud account, in case you have lost access to it. The guides cover a variety of scenarios, including:
+This repository contains guides on how to recover an Oracle Cloud account, in case you have lost access to it. The guides cover a variety of scenarios, including:
 
-* Forgotten password
-* Lost email address
 * Account locked
-* Account compromised
+* Lost authenticator app
 
-The guides are easy to follow and provide step-by-step instructions, with screenshots and videos where appropriate. They are also regularly updated to reflect the latest changes to the Oracle Cloud platform.
+The guides are easy to follow and provide step-by-step instructions. They are also regularly updated to reflect the latest changes to the Oracle Cloud platform.
 
 ## How to Use These Guides
 
-To use these guides, simply click on the guide for the scenario that you are facing. The guide will then provide you with step-by-step instructions on how to recover your account.
+To use these guides, simply click on the guide for the scenario that you are facing.
 
 ## Contributing to These Guides
 
