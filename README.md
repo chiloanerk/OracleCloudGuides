@@ -14,11 +14,12 @@ To use these guides, simply click on the guide for the scenario that you are fac
 ## Contributing to These Guides
 
 If you have any suggestions for improving these guides, or if you would like to add a guide for a new scenario, please feel free to contribute to the repository. To contribute, simply fork the repository and make your changes. Once you are finished, submit a pull request.
+# Guides
 
-## How to Recover Oracle Cloud Account after Losing Mobile Authenticator App
+## 1. How to Recover Oracle Cloud Account after Losing Mobile Authenticator App
 
 [Click here](how-to-recover-oracle-cloud-account-after-losing-mobile-authenticator-app.md) to learn how to recover your Oracle Cloud account if you have lost access to your mobile authenticator app.
 
-## How to Disable Two-Factor Authentication (2FA) Prompt on Next Login
+## 2. How to Disable Two-Factor Authentication (2FA) Prompt on Next Login
 
 [Click here](how-to-disable-two-factor-authentication-2fa-prompt-on-next-login.md) to learn how to disable the 2FA prompt on your next login to Oracle Cloud.
